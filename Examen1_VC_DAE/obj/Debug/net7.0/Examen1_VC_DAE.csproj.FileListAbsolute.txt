@@ -1,0 +1,14 @@
+C:\Users\PC1\source\repos\Examen1_VC_DAE\bin\Debug\net7.0\Examen1_VC_DAE.exe
+C:\Users\PC1\source\repos\Examen1_VC_DAE\bin\Debug\net7.0\Examen1_VC_DAE.deps.json
+C:\Users\PC1\source\repos\Examen1_VC_DAE\bin\Debug\net7.0\Examen1_VC_DAE.runtimeconfig.json
+C:\Users\PC1\source\repos\Examen1_VC_DAE\bin\Debug\net7.0\Examen1_VC_DAE.dll
+C:\Users\PC1\source\repos\Examen1_VC_DAE\bin\Debug\net7.0\Examen1_VC_DAE.pdb
+C:\Users\PC1\source\repos\Examen1_VC_DAE\obj\Debug\net7.0\Examen1_VC_DAE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\source\repos\Examen1_VC_DAE\obj\Debug\net7.0\Examen1_VC_DAE.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Examen1_VC_DAE\obj\Debug\net7.0\Examen1_VC_DAE.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Examen1_VC_DAE\obj\Debug\net7.0\Examen1_VC_DAE.csproj.CoreCompileInputs.cache
+C:\Users\PC1\source\repos\Examen1_VC_DAE\obj\Debug\net7.0\Examen1_VC_DAE.dll
+C:\Users\PC1\source\repos\Examen1_VC_DAE\obj\Debug\net7.0\refint\Examen1_VC_DAE.dll
+C:\Users\PC1\source\repos\Examen1_VC_DAE\obj\Debug\net7.0\Examen1_VC_DAE.pdb
+C:\Users\PC1\source\repos\Examen1_VC_DAE\obj\Debug\net7.0\Examen1_VC_DAE.genruntimeconfig.cache
+C:\Users\PC1\source\repos\Examen1_VC_DAE\obj\Debug\net7.0\ref\Examen1_VC_DAE.dll
